@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "slug": "nucleo-blackout",
+    "title": "NUCLEO BLACKOUT",
+    "difficulty": 5,
+    "players": "2-5",
+    "price": 28,
+    "category": "INFILTRAZIONE",
+    "status": "CLASSIFICATO",
+    "shortDescription": "Un server aziendale è entrato in blackout. Qualcosa continua a funzionare al suo interno.",
+    "longDescription": "Interruzione di corrente nel Settore 7. I sistemi di sicurezza risultano offline. Un’intelligenza artificiale interna potrebbe essere ancora attiva."
+  },
+  {
+    "id": 2,
+    "slug": "prigione-eco",
+    "title": "PRIGIONE ECO",
+    "difficulty": 4,
+    "players": "2-6",
+    "price": 25,
+    "category": "SOPRAVVIVENZA",
+    "status": "CONTENIMENTO ATTIVO",
+    "shortDescription": "Una struttura abbandonata continua a produrre segnali anomali.",
+    "longDescription": "Ultima trasmissione ricevuta 14 giorni fa. Le porte risultano chiuse dall’interno. Nessun sopravvissuto confermato."
+  },
+  {
+    "id": 3,
+    "slug": "colpo-quantico",
+    "title": "COLPO QUANTICO",
+    "difficulty": 2,
+    "players": "3-6",
+    "price": 32,
+    "category": "INVESTIGAZIONE",
+    "status": "PRIORITÀ ALTA",
+    "shortDescription": "Un sistema di sicurezza esiste in più stati contemporaneamente.",
+    "longDescription": "Crittografia quantistica rilevata. L’osservazione altera il comportamento del sistema. Instabilità temporale in aumento."
+  },
+  {
+    "id": 4,
+    "slug": "ossigeno-zero",
+    "title": "OSSIGENO ZERO",
+    "difficulty": 3,
+    "players": "2-4",
+    "price": 22,
+    "category": "SOPRAVVIVENZA",
+    "status": "CRITICO",
+    "shortDescription": "Un guasto al sistema di aria ha isolato l’intera struttura.",
+    "longDescription": "Livelli di ossigeno in diminuzione. Protocolli di emergenza non attivi. È richiesto intervento manuale immediato."
+  },
+  {
+    "id": 5,
+    "slug": "segnale-profondo",
+    "title": "SEGNALE PROFONDO",
+    "difficulty": 5,
+    "players": "2-5",
+    "price": 26,
+    "category": "ESTRAZIONE",
+    "status": "FONTE SCONOSCIUTA",
+    "shortDescription": "Un segnale continuo proviene da una zona sotterranea non registrata.",
+    "longDescription": "Origine del segnale non identificata. Pattern ripetitivo rilevato. Le interferenze aumentano progressivamente."
+  },
+  {
+    "id": 6,
+    "slug": "labirinto-neon",
+    "title": "LABIRINTO NEON",
+    "difficulty": 3,
+    "players": "2-6",
+    "price": 24,
+    "category": "ESTRAZIONE",
+    "status": "SIMULAZIONE ATTIVA",
+    "shortDescription": "Un ambiente in continua riconfigurazione geometrica.",
+    "longDescription": "Mappatura spaziale instabile. Le pareti si riconfigurano ogni 90 secondi. Uscita non confermata."
+  }
+]

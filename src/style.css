@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui/index.js" {
+  themes:
+    light --default,
+    dark;
+}
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+
+body {
+  font-family: "Rajdhani", sans-serif;
+  color: #d1d5db;
+}
+
+h1 , h2 , h3 {
+  font-family: "Orbitron", sans-serif;
+}
+
+.cyber-grid {
+  background-image:
+    linear-gradient(rgba(0,229,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,229,255,0.03) 1px, transparent 1px);
+
+  background-size: 20px 20px;
+}
